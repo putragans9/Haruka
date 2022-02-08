@@ -5,11 +5,11 @@ const chalk = require('chalk')
 global.self = false //jadiin true klo gk mau fitur bot lu di pke sama org lain
 
 // setting
-global.ownername ="ZeeoneOfc"
-global.ownernumber = "62887435047326"
-global.botname = "Haruka-Bot"
+global.ownername ="PutraXd Ofc"
+global.ownernumber = "6283842942635"
+global.botname = "PutraXd Bot"
 global.thumbnail = fs.readFileSync("./settings/haruka.jpg") //sesuaikan dengan nama foto
-global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
+global.background = "'https://telegra.ph/file/4e3581f3ae06bfa621247.jpg"
 global.limit = {
 		free:20,
 		premium:1000
